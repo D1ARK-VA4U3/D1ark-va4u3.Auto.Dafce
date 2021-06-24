@@ -12,17 +12,17 @@ banner = """\033[36m
 
     ┏━━━━━•°°°°*$*°°°°°•━━━━━┓
 
-          Auto Deface baba
+          Auto Deface D@ark V@u
 
     ┗━━━━━•°°°°*$*°°°°•━━━━━┛                  
          ┏━━━━━•$•━━━━━┓
 
-        °Cyber king squad°
+        °FROM BCA TEAM°
 
          ┗━━━━━•$•━━━━━┛
     ┏━━━━━•°°°°*$*°°°°°•━━━━━┓
 
-         it's me Rh077king
+         it's me D1ark-va4u3
 
      ┗━━━━━•°°°°°*$*°°°°•━━━━━┛                            
   
