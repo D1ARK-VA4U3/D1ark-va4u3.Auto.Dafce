@@ -1,4 +1,4 @@
-# Auto Deface Tools Make by D1ark-va4u3
+# Auto Deface Tools Make by D1ark-va4u3🔰
 # apt update
 # pkg install git
 # pkg install python
@@ -8,4 +8,6 @@
 # pip install machenize
 # pip2 install mechanize
 # git clone https://github.com/D1ARK-VA4U3/D1ark-va4u3.Auto.Dafce
-#cd D1ark-va4u3.Auto.Dafce
+# cd D1ark-va4u3.Auto.Dafce
+# ls
+# python2 D1ARK-VA4U3.py
